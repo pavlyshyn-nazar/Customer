@@ -5,7 +5,7 @@ target/
 
 ### IntelliJ IDEA ###
 
-.idea
+.idea/
 *.xml
 
 .idea/modules.xml
